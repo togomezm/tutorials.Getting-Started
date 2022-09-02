@@ -231,8 +231,7 @@ La respuesta debe parecerse a la siguiente:
 
 ## Creando datos de contexto
 
-En el fondo, FIWARE es un sistema de gestión de información contextual, por lo que permite añadir algunos datos contextuales al sistema mediante
-creando dos nuevas entidades (tiendas en **Berlin**). Cualquier entidad debe tener un `id` y atributos de tipo `type`, los atributos adicionales son opcionales y dependerán del sistema que se describa. Cada atributo adicional debe tener también un tipo definido y un atributo de valor.
+En el fondo, FIWARE es un sistema de gestión de información contextual, por lo tanto, agreguemos algunos datos de contexto mediante la creación de dos nuevas entidades (tiendas en **Berlin**). Cualquier entidad debe tener un `id` y atributos de tipo `type`, los atributos adicionales son opcionales y dependerán del sistema que se describa. Cada atributo adicional debe tener también un tipo definido y un atributo de valor.
 
 
 #### :two: Petición:
